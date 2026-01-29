@@ -55,5 +55,3 @@ The final dataset with cluster labels is saved as:
 ## 🏷️ Conclusion
 This project demonstrates how unsupervised learning can be used to understand customer behavior and improve marketing decision-making.
 
----
-Model by Shanza Shakeel
