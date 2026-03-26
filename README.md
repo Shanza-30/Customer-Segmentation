@@ -1,7 +1,7 @@
 # Customer Segmentation Using K-Means Clustering
 
 ## 📌 Project Overview
-This project focuses on customer segmentation using the Mall Customers dataset. The goal is to group customers based on their age and spending behavior using the K-Means clustering algorithm to support data-driven marketing strategies.
+This project task 3 syntecxhub focuses on customer segmentation using the Mall Customers dataset. The goal is to group customers based on their age and spending behavior using the K-Means clustering algorithm to support data-driven marketing strategies.
 
 
 ## 🎯 Objectives
